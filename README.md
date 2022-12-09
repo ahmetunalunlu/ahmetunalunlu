@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
 - 🌱 I’m currently learning **ROS, Solana**
 
 - 📫 How to reach me **ahmetunalunlu@gmail.com**
