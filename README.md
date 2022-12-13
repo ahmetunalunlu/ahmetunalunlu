@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **ROS, Solana**
+- 🌱 I’m currently learning **Robotics, Solana**
 
 - 📫 How to reach me **ahmetunalunlu@gmail.com**
 
